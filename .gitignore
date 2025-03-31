@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/TaxCalculator/obj
+/TaxCalculator/bin/Debug/net8.0-windows
