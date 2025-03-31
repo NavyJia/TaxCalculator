@@ -738,7 +738,7 @@
             TaxDetailLtv.UseCompatibleStateImageBehavior = false;
             TaxDetailLtv.View = View.Details;
             // 
-            // Form1
+            // MainForm
             // 
             AutoScaleDimensions = new SizeF(11F, 24F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -751,9 +751,9 @@
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             MaximizeBox = false;
-            Name = "Form1";
+            Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form1";
+            Text = "个税计算";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
